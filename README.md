@@ -16,7 +16,7 @@ Shared stuff, like types and base classes
 
 ## Setting up
 ### Python
-- >= 3.8
+- 3.8 or newer
 
 ### Optional but you _should_ have this because the CI will definitely do this
 - Install [`mypy`](https://mypy.readthedocs.io/en/stable/getting_started.html)
